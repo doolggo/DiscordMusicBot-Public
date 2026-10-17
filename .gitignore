@@ -1,0 +1,17 @@
+﻿# Discord authentication
+.env
+.env.*
+!.env.example
+cookies.txt
+*token*
+*secret*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+nohup.out
